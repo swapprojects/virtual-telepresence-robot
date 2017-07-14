@@ -22,7 +22,7 @@ and the actual robot which has camera and pan-tilt head.
 - self-made VTR android app for virtual reality headset can be configured for single or dual camera (for 3D) visuals.
 
 #### softeware installation
-* Self-made python script for robot car control
+* Self-made python script for robot car control [GitHub Pages](https://github.com/swapprojects/virtual-telepresence-robot/blob/master/robocar.py)
 
 * Refer (https://github.com/epiception/Virtual-Telepresence/blob/master/Surrogates/Python-Code/Python-Code-version1.0/servo_blasteroid.py ) 
 for head movement tracking
