@@ -1,4 +1,4 @@
-# virtual-telepresence-robot
+# Virtual Telepresence Robot
 A telepresence robot is a remote-controlled, wheeled device with a cameras to enable video conferencing and 
 give the appearance of being present at place other than their true location. It is possible with combination of virtual reality and
 IOT using Raspberry pi. Major 3 components of this project are controlling pc for driving robot , mobile for VR and head movement tracking
