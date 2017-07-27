@@ -40,7 +40,7 @@ for head movement tracking
 
 ## Actual working Video
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/PEsZ-0DcaUQ/0.jpg)](http://www.youtube.com/watch?v=PEsZ-0DcaUQ)
-also see discription for more details
+<--- click on this also see discription for more details
 
 
 ## Virtual Telepresence Robot
