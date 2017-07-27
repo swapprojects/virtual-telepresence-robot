@@ -38,5 +38,10 @@ for head movement tracking
 ![alt text](https://user-images.githubusercontent.com/30182047/28227810-4978273a-68f9-11e7-889e-2335331983c9.png) ![alt text](https://user-images.githubusercontent.com/30182047/28227821-5b2c9f24-68f9-11e7-81ba-6db08b073f86.png) 
 
 
+[![Watch the video](https://youtu.be/PEsZ-0DcaUQ)
+
+
 ## Virtual Telepresence Robot
 ![alt text](https://user-images.githubusercontent.com/30182047/28226851-3ad12410-68f5-11e7-856a-dc38d34e6575.jpeg)
+
+
